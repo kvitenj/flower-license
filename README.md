@@ -25,7 +25,8 @@ See the full terms in the LICENSE file.
 
 | File | Description |
 |------|-------------|
-| `LICENSE` | Full legal text of the Flower License (template) |
+| `LICENSE_Template` | Full legal text of the Flower License (template) |
+| `LICENSE` | This repository license file |
 | `Header.c` | Minimal license header for embedding in the C/C++ source files |
 | `Header.py` | Minimal license header for embedding in the Python source files |
 | `flower-license.svg` | Logo for the license |
@@ -37,7 +38,7 @@ See the full terms in the LICENSE file.
 
 ### License Template
 
-Copy the `LICENSE` file into your repository and replace:
+Copy the `LICENSE_Template` file into your repository, rename it to `LICENSE` and replace:
 
 - `[YEAR]` with the current year
 - `[YOUR NAME / ORGANIZATION]` with your name or entity
@@ -66,13 +67,13 @@ The Flower License offers a lightweight yet expressive solution.
 
 ## 📖 Story
 
-Basically, I wanted to have a variant of the BSD 3 clause license with country limitations. But while polishing the license using AI, it suggested adding AI limitations. I found that funny and kept the limitations.
+Basically, I wanted to have a variant of the BSD-3-clause license with country limitations. But while polishing the license using AI, it suggested adding AI limitations. I found that funny and kept the limitations.
 
 ---
 
 ## 📬 Contributing
 
-Pull requests are welcome for improving badge designs, translations, or legal clarity.  
+Pull requests are welcome for improving logo designs, translations, or legal clarity.  
 I do **not** accept requests to change the core restrictions of the license.
 
 ---
