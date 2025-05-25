@@ -24,11 +24,11 @@
     <rect x="-2.5" y="18" width="5" height="20" fill="#F26D7D"/>
   </g>
 
-  <!-- Text with drop shadow and emoji -->
-  <text x="80" y="35" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#000000" dominant-baseline="central">
+  <!-- Text -->
+  <text x="80" y="35" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#424242" dominant-baseline="central">
     Flower
   </text>
-  <text x="80" y="65" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#000000" dominant-baseline="central">
+  <text x="80" y="65" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#424242" dominant-baseline="central">
     License
   </text>
 </svg>
