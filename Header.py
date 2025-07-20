@@ -1,5 +1,5 @@
 # Flower License (Based on the BSD 3-Clause License)
-# Copyright (c) [YEAR], [YOUR NAME / ORGANIZATION]
+# Copyright [YEAR] [YOUR NAME / ORGANIZATION]
 # 
 # Redistribution and use in source and binary forms, with or without modification, are permitted under the terms of the Flower License.
 # 
